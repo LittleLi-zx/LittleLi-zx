@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 About Me 
 
-- 🔭 I’m currently learning Go and Java.
+- 🔭 I’m currently learning C++ and Go.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 Studying Computer Science and computer programming.
 - 💼 Back-end developer and front-end web developer.
@@ -15,7 +15,7 @@
 
 ### 🛠 Tech Stack
 
-- 💻 Java | GO | C++  
+- 💻 C++ | Go | Python  
 - 🌐 HTML | CSS | JavaScript | Bootstrap | Vue
 - 🛢  MySQL | Redis | Elasticsearch
 - 🔧 Visual Studio code | IDEA | Git
