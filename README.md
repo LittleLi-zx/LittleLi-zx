@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 About Me 
 
 - 🔭 I’m currently learning C++ and Go.
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 Exploring new technologies and developing software solutions and database kernel.
 - 🎓 Studying Computer Science and computer programming.
 - 💼 Strive to be an excellent database kernel developer.
 - 🌱 Love life and full of hope.
