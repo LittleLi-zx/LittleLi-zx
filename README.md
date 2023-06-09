@@ -1,4 +1,4 @@
-## Hi there 👋  I'm LittleLi(木子李).
+## Hi there 👋  I'm LittleLi(废柴小李).
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 
