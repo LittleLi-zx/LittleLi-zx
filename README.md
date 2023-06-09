@@ -17,5 +17,5 @@
 
 - 💻 C++ | Go | Python  
 - 🌐 HTML | CSS | JavaScript | Bootstrap | Vue
-- 🛢  MySQL | Redis | Elasticsearch
-- 🔧 Visual Studio code | IDEA | Git
+- 🛢  MySQL | PostgreSQL | Redis
+- 🔧 Visual Studio code | Pycharm | Git
