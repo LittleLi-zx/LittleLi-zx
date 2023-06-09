@@ -16,6 +16,6 @@
 ### 🛠 Tech Stack
 
 - 💻 C++ | Go | Python  
-- 🌐 HTML | CSS | JavaScript | Bootstrap | Vue
+- 🌐 TiDB | OceanBase | PolarDB | TDSQL | openGauss
 - 🛢  MySQL | PostgreSQL | Redis
 - 🔧 Visual Studio code | Pycharm | Git
